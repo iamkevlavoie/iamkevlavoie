@@ -102,10 +102,10 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Kevin Lavoie</h3>
+      <h3 align="center">KB Restaurant</h3>
         <br />
         <a target="_blank" href="https://kevinlavoie.netlify.app/">
-            <img src="" width="100%" alt="Portfolio"/>
+            <img src="https://gfycat.com/limpingfargelding" width="100%" alt="KB Restaurant"/>
         </a>
         <br />
         <p align="center">
@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, Javascript,Angular, and TypeScript</strong> - KB Restaurant is a single page application that let's you add,edit and delete items from your menu.</p>
     </td>
   </tr>
 </table>
