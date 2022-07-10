@@ -64,7 +64,7 @@
       <h3 align="center">KB Restaurant</h3>
         <br />
         <a target="_blank" href="">
-            <img src="images/kbrestaurant.gif" width="100%" alt="KB Restaurant"/>
+            <img src="https://i.imgur.com/HXAYSKV.mp4" width="100%" alt="KB Restaurant"/>
         </a>
         <br />
         <p align="center">
