@@ -46,7 +46,7 @@
       <h3 align="center">Kevin Lavoie</h3>
         <br />
         <a target="_blank" href="https://kevinlavoie.netlify.app/">
-            <img src="" width="100%" alt="Portfolio"/>
+            <img src="images/portfolio.svg" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -64,7 +64,7 @@
       <h3 align="center">KB Restaurant</h3>
         <br />
         <a target="_blank" href="">
-            <img src="https://i.imgur.com/HXAYSKV.mp4" width="100%" alt="KB Restaurant"/>
+            <img src="images/kbrestaurant.svg" width="100%" alt="KB Restaurant"/>
         </a>
         <br />
         <p align="center">
