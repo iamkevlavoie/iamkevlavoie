@@ -1,5 +1,5 @@
 
-<img src="images/githubbanner.jpg" width="100%">
+<img src="images/Frame3.svg" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
