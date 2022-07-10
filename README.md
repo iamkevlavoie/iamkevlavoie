@@ -59,20 +59,20 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
+    </td>    
     <td width="50%" valign="top">
       <h3 align="center">KB Restaurant</h3>
         <br />
-        <a target="_blank" href="https://gfycat.com/limpingfargelding">
-            <div style='position:relative; padding-bottom:calc(54.17% + 44px)'><iframe src='https://gfycat.com/ifr/LimpingFarGelding' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+        <a target="_blank" href="">
+            <img src="images/kbrestaurant.gif" width="100%" alt="KB Restaurant"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/iamkevlavoie/kb-restaurant" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://gfycat.com/limpingfargelding" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
