@@ -1,5 +1,5 @@
 
-<img src="images/banner.jpg" width="100%">
+<img src="images/banner.svg" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
