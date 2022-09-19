@@ -20,7 +20,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **KB Restaurant**
+- 🔭 I’m currently working on **Crypto Portfolio App**
 
 - 🌱 I’m currently learning **React and MongoDB**
 
