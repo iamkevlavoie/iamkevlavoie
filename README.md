@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Crypto Portfolio App**
 
-- 🌱 I’m currently learning **React and MongoDB**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://kevinlavoie.netlify.app/](https://kevinlavoie.netlify.app/)
 
