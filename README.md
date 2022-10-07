@@ -20,7 +20,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Crypto Portfolio App and a Net Worth app**
+- 🔭 I’m currently working on **Crypto Portfolio App and a Net Worth app.**
 
 - 🌱 I’m currently learning **React**
 
