@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Crypto Portfolio App and a Net Worth app.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** on Coursera
 
 - 👨‍💻 All of my projects are available at [https://kevinlavoie.netlify.app/](https://kevinlavoie.netlify.app/)
 
