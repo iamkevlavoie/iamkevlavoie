@@ -20,15 +20,15 @@
 <br>
 
 
-- 🔭 I’m currently working on **Crypto Portfolio App and a  Net Worth app.**
+- 🔭  I’m currently working on **Crypto Portfolio App and a  Net Worth app.**
 
-- 🌱 I’m currently learning **React** on Coursera .
+- 🌱  I’m currently learning **React** on Coursera .
 
-- 👨‍💻 All of my projects are available at [https://kevinlavoie.netlify.app/](https://kevinlavoie.netlify.app/)
+- 👨‍💻  All of my projects are available at [https://kevinlavoie.netlify.app/](https://kevinlavoie.netlify.app/)
 
-- 📫 How to reach me **kevlavoie.io@gmail.com**
+- 📫  How to reach me **kevlavoie.io@gmail.com**
 
-- 📄 [Know about my experiences](https://docs.google.com/document/d/1Or_Dvt5a9jUCsa8vTi1JJpg-y13JYwEI/edit?usp=sharing&ouid=104517347506947138804&rtpof=true&sd=true)
+- 📄  [Know about my experiences](https://docs.google.com/document/d/1Or_Dvt5a9jUCsa8vTi1JJpg-y13JYwEI/edit?usp=sharing&ouid=104517347506947138804&rtpof=true&sd=true)
 
 - ⚡ Fun fact **My last meal on Earth would be sushi**
 
